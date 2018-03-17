@@ -11,10 +11,12 @@
 
 ## 今日やること 
 Functions と Cosmos DBを触る
-- [ ] Hello Function!
-- [ ] Cosmos DB CRUD
-- [ ] タイマー・トリガー
-- [ ] precompiled
-- [ ] Durable Functions
+- Hello Functions!
+- Cosmos DB CRUD
+- タイマー・トリガー
+- precompiled
+- Durable Functions
 
 ---
+## 今日の資料
+https://gitpitch.com/akiyoshi/azuremoku2-20180317
