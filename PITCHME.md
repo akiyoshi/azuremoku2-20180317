@@ -8,4 +8,13 @@
 
 
 ---
- 
+
+## 今日やること 
+Functions と Cosmos DBを触る
+- [ ] Hello Function!
+- [ ] Cosmos DB CRUD
+- [ ] タイマー・トリガー
+- [ ] precompiled
+- [ ] Durable Functions
+
+---
